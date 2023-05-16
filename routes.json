@@ -1,0 +1,3 @@
+{
+    "/bodyparts/:name": "/bodyparts?name=:name"
+}
