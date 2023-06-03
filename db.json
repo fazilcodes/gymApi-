@@ -599,9 +599,9 @@
             "workouts": [
                 {
                     "id": 0,
-                    "difficulty": "easy",
-                    "exercise": "Cable Press",
-                    "gif_url": "" 
+                    "difficulty": "medium",
+                    "exercise": "Cable Reverse",
+                    "gif_url": "https://i.pinimg.com/originals/54/68/d5/5468d5032b585e2e6682f9257d27d568.gif" 
                 }
             ]
         },
@@ -612,9 +612,9 @@
             "workouts": [
                 {
                     "id": 0,
-                    "difficulty": "easy",
-                    "exercise": "Cable Press",
-                    "gif_url": "" 
+                    "difficulty": "medium",
+                    "exercise": "Barbell Shrug",
+                    "gif_url": "https://i.pinimg.com/originals/fe/a5/af/fea5af88cca2ae9f4b1a940b106cbdcf.gif" 
                 }
             ]
         },
@@ -625,9 +625,16 @@
             "workouts": [
                 {
                     "id": 0,
-                    "difficulty": "easy",
-                    "exercise": "Cable Press",
-                    "gif_url": "" 
+                    "difficulty": "medium",
+                    "exercise": "Dumbell Seal Row",
+                    "gif_url": "https://i.pinimg.com/originals/38/59/23/3859233fc9656123b74402402a066eba.gif" 
+                },
+
+                {
+                    "id": 1,
+                    "difficulty": "medium",
+                    "exercise": "T Bar Row",
+                    "gif_url": "https://i.pinimg.com/originals/35/ad/73/35ad7310a503c4d6f4230669275bbdbe.gif" 
                 }
             ]
         }
